@@ -99,6 +99,8 @@ Se calificara segun el codigo (Por tanto el codigo debe ser pasado obligatoriame
 
 Es necesario mencionar que si no completas los trabajos o tu fuerte solo es frontend o backend, envia lo que tengas, todo puede sumar puntos, si no completas algun test, como dije, envia lo que has podido realizar y concretar, nuevamente TODO SUMA.
 
-Sin mas, espero nos hagas llegar tus respuestas y tus trabajos, buenas suerte :grin: :grin: :grin: :grin:
+Si tienes alguna duda respecto a las instrucciones, hazme llegar email a mi correo personal: cancioalmaraz@gmail.com (SOLO para dudas de este test)
+
+Sin mas, espero nos hagas llegar tus respuestas y tus trabajos, buena suerte y muchos exitos :grin: :grin: :grin:
 
 
