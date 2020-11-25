@@ -18,7 +18,7 @@ En cuanto al test, este se dividirá en dos partes; Frontend y "Backend".
 
 - UX Design: Muy deseable, ya que necesitamos hacer una aplicacion eficaz y sencilla.
 - Uso de Hooks en React JS: Si no tiene conocimientos en ello puede realizar todo simplemente con componentes, pero este punto de uso de Hooks aumenta mucho su puntuacion, ya que se trabajará con ello.
-- Uso de Bootstrap o Material UI: Simplemente se pide algo sencillo, como un Navbar, tamaños de letra adecuados y poco mas, aunque se puntuará muy bien que la responsividad esta bien implementada.
+- Uso de Bootstrap o Material UI: Simplemente se pide algo sencillo, como un Navbar, tamaños de letra adecuados y poco mas, aunque se puntuará muy bien que la responsividad este bien implementada.
 
 ### Entrega del trabajo:
 
