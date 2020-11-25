@@ -67,4 +67,38 @@ Puedes optar por cualquiera de las dos, te lo dejo a tu criterio, aunque te acon
 
 La importacion y el uso de las librerias, tambien te las dejo a tu criterio, puedes usar el gestor de paquetes npm, asi como tambien instalaciones CDN, sientete libre, al final lo que tomare en cuenta nada mas, es lo mencionado alla arriba, en "Los criterios a tomar en cuenta en frontend" y los criterios en general.
 
+Tambien puedes hacer retrospectiva de tus trabajos realizados para sumar puntos, haznos llegar en una lista de los proyectos que tienes ya realizados y de ser posible, de acuerdo a la politica de privacidad de tu trabajo, pasar el codigo, cabe recalcar que solo tienes que pasar trabajos realizados en React JS.
+
+## Test Backend
+
+### Entrega del trabajo:
+
+Los trabajos se recibiran mediante:
+- Los links a los repositorios, ya sea en github, bitbucket, gitlab, etc (Esto queda a su criterio, con el que mas se sientan cómodos, esto es necesario para demostrar su conocimiento de git y las plataformas de servicios de repositorios).
+
+Debido a que el backend es de implementacion, este requiere de componentes y dispositivos fisicos (ciertamente con costos), y el objetivo del test es solamente confirmar y apreciar los conocimientos del postulante y de esta manera no cargarle gastos, se realizara una retrospectiva a sus trabajos realizados, haznos llegar toda la documentacion de tus trabajos como ser videos de demostracion, codigos, documentos, etc. Si son videos de demostracion dedicados especialmente para este test sumara mas puntos.
+
+Se aceptaran trabajos realizados bajo las distintas plataformas de microcontroladores:
+
+- Arduino
+- Atmel
+- PIC
+- STMicroelectronics
+
+- Se apreciaran trabajos de telecomunicacion y transmision de datos (Inalambricamente).
+
+#### Los criterios a tomar en cuenta en backend son:
+
+Se calificara segun el codigo (Por tanto el codigo debe ser pasado obligatoriamente).
+
+- Programacion Orientada a Objetos.
+- El uso y conocimiento del lenguaje en si; Esto quiere decir por ejemplo, a traves del lenguaje, la administracion de recursos del microcontrolador (Ahorro de memoria RAM, ahorro de memoria ROM, etc).
+- El uso y conocimiento que nos brinda la plataforma para poder manejar los microcontroladores, por ejemplo; Los microcontroladores en general tienen ciertas instrucciones en registros que nos sirven para poder ponerlo en modo Sleep (Ahorro de energia).
+
+## Notas
+
+Es necesario mencionar que si no completas los trabajos o tu fuerte solo es frontend o backend, envia lo que tengas, todo puede sumar puntos, si no completas algun test, como dije, envia lo que has podido realizar y concretar, nuevamente TODO SUMA.
+
+Sin mas, espero nos hagas llegar tus respuestas y tus trabajos, buenas suerte :grin: :grin: :grin: :grin:
+
 
