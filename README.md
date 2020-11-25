@@ -14,6 +14,8 @@ El test es algo sencillo y básico respecto a las tecnologías consultadas en la
 
 En cuanto al test, este se dividirá en dos partes; Frontend y "Backend".
 
+## Test Frontend
+
 #### Los criterios a tomar en cuenta en frontend son:
 
 - UX Design: Muy deseable, ya que necesitamos hacer una aplicacion eficaz y sencilla.
@@ -26,7 +28,6 @@ El trabajo se recibira mediante (Elegir solo uno):
 - El link al repositorio, ya sea en github, bitbucket, gitlab, etc (Esto queda a su criterio, con el que mas se sientan cómodos). 
 - El link a la web subida en algun servicio de hosting, osea, la aplicacion web funcionando en internet.
 
-## Test Frontend
 
 ### Idea General:
 
@@ -52,7 +53,6 @@ En cuanto a pantallas, requiero:
 - Una pantalla acerca de, que sera el About y debe cumplir:
   - Mostrar mas detalles acerca del postulante, este punto se va mas a presentarse mediante esta pantalla, aca se vera sus habilidades de hacer diseño y tratar de hacerlo lo mas "bonito" posible.
   
-  
 #### Recursos.
 
 Para conseguir el uso de los mapas dinamicos ocupar la libreria leaflet y su integracion a React JS:
@@ -65,6 +65,6 @@ Para conseguir el uso de los mapas dinamicos ocupar la libreria leaflet y su int
  
 Puedes optar por cualquiera de las dos, te lo dejo a tu criterio, aunque te aconsejaria hacer uso de bootstrap ya que es algo mas rapido y sencillo de implementar y entender.
 
-
 La importacion y el uso de las librerias, tambien te las dejo a tu criterio, puedes usar el gestor de paquetes npm, asi como tambien instalaciones CDN, sientete libre, al final lo que tomare en cuenta nada mas, es lo mencionado alla arriba, en "Los criterios a tomar en cuenta en frontend" y los criterios en general.
+
 
