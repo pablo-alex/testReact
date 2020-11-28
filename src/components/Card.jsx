@@ -7,15 +7,16 @@ class Card extends Component{
 
     render(){
         return (
-            <div class="col">
-                <div class="card">
-                    <div class="card-body">
-                        <h5 class="card-title">{this.props.location.name}</h5> 
-                        <p class="card-text">{this.props.location.description}</p>
+            <div className="col">
+                <div className="card">
+                    <div className="card-body">
+                        <h5 className="card-title">{this.props.location.name}</h5> 
+                        <p className="card-text">{this.props.location.description}</p>
         
-                        <Link class="btn btn-primary" to={{
+                        <Link className="btn btn-primary" to={{
                             pathname: '/map',
-                            state: this.props.location.coordinates
+                            state: this.props.location.coordinates,
+                            nameLugar: this.props.location.name
                         }}>
                         Ver en Mapa
                         </Link>

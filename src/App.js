@@ -26,7 +26,6 @@ function App() {
             About
           </NavLink>
         </div>
-        <hr />
 
         <Switch>
           <Route path="/map"> 

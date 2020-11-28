@@ -4,24 +4,24 @@
         "name": "Plaza 24 de Septiembre",
         "description": "Ubicada en Santa Cruz de la Sierra, Bolivia. La Plaza fue antiguamente llamada Plaza de Armas, en ella se desarrollaron los enfrentameintos de la revolución liberal federal de 1898.",
         "coordinates": {
-            "latitude": -17.78330,
-            "longitude": -63.1821
+            "latitude": -17.783312429342878,
+            "longitude": -63.18212203883488
         }
     },
     {
         "name": "Plaza Murillo",
         "description": "Situada en el centro de la ciudad de La Paz, se convirtió en el centro del poder político de Bolivia después del traslado del Poder Ejecutivo a La Paz como resultado de la Guerra Federal de 1899.",
         "coordinates": {
-            "latitude": -16.49564, 
-            "longitude": -68.13354
+            "latitude": -16.495733816136884,
+            "longitude": -68.13348457382031
         }
     },
     {
         "name": "Plaza Copacabana",
         "description": "Ubicada en La Paz, Bolivia, Calle Pando.",
         "coordinates": {
-            "latitude": -16.1652,
-            "longitude": -69.0853
+            "latitude": -16.1652705413295,
+            "longitude": -69.08535612012629
         }
     }
 ]
