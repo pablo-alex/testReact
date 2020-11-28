@@ -1,4 +1,5 @@
 import React from 'react';
+import './App.css';
 import {
   BrowserRouter as Router,
   Switch,
@@ -9,6 +10,7 @@ import {
 
 import About from './components/About';
 import Home from './components/Home';
+import MapView from './components/MapView';
 
 
 function App() {
@@ -27,6 +29,9 @@ function App() {
         <hr />
 
         <Switch>
+          <Route path="/map"> 
+            <MapView />
+          </Route>
           <Route path="/about"> 
             <About />
           </Route>
@@ -34,6 +39,7 @@ function App() {
             <Home />
           </Route>
         </Switch>
+        
       </div>
     </Router>
   );
