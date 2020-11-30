@@ -1,0 +1,122 @@
+@media screen and (max-width:500px){
+    #protofolio-link{
+        padding-right: 5px;
+    }
+}
+
+.container-banner{
+    background-color: #ffffff;
+    text-align: center;
+    border-style: hidden;
+    border-radius: 15px;
+    font-family: 'Ruda', sans-serif;
+}
+
+.profilepic{
+    border-radius: 85px;
+    padding-top: 7px;
+}
+
+.container-about{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border-style: hidden;
+    padding: 18px; 
+    text-align: center;
+}
+
+.container-about>p{
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.container-about>h1{
+    font-family: 'Ruda', sans-serif;
+}
+
+.flex-project-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.flex-project-container>div{
+    background-color: #f1f1f1;
+    width: 150px;
+    height: 150px;;
+    margin: 10px;
+    text-align: center;
+    line-height: 75px;
+    font-size: 30px;
+    border-style: hidden;
+    border-radius: 30px;
+}
+
+.flex-project-container img{
+    margin-top: 27px;
+}
+
+.flex-project-container > div:hover
+{
+transform: scale(1.1);
+}
+
+.projects{
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    border-style: hidden;
+    padding: 18px; 
+    text-align: center;
+    
+}
+.projects h1{
+    font-family: 'Ruda', sans-serif;
+}
+
+.projects p{
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+}
+
+.container{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly; 
+    flex-wrap: wrap;
+}
+
+.container a{
+    padding-right: 10px;
+    text-decoration: none;
+
+}
+
+.container p{
+    color: black;
+    font-family: 'Slabo 27px', serif;
+}
+
+.container a:hover
+{
+transform: scale(1.1);
+}
+
+.container-1{
+    color: black;
+    text-align: center;
+    font-family: 'Saira Semi Condensed', sans-serif;
+    font-size: 16px;
+}
+
+.container-1 > a{
+    padding-left: 5px;
+    font-size: 22px;
+    text-decoration: none;
+    
+}
+span:hover{
+    text-decoration: none;
+    transform: scale(1.5);
+    
+}
