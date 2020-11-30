@@ -1,6 +1,6 @@
 # TEST TELEMETRÍA
 
-_Este pequeño practica fue realizada como test personal para el Bolivia Rover Nasa Challenge_
+_Este pequeña practica fue realizada como test personal para el Bolivia Rover Nasa Challenge_
 
 ## Aclaraciones
 
